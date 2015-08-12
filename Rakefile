@@ -32,4 +32,4 @@ desc 'Run all tests on Travis'
 task travis: %w(style spec)
 
 # Default
-task default:  %w(style spec)
+task default: %w(style spec)
